@@ -73,4 +73,4 @@ function sumEvenGrandparent(root) {
 
 let sum = sumEvenGrandparent(tree);
 
-console.log(tree, sum);
+console.log(`Tổng là ${sum}`);
