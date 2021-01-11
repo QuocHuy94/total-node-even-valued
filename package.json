@@ -1,0 +1,22 @@
+{
+  "name": "total-node-even-valued",
+  "version": "1.0.0",
+  "description": "Given a binary tree, return the sum of values of nodes with even-valued grandparent. (A grandparent of a node is the parent of its parent, if it exists.) If there are no nodes with an even-valued grandparent, return 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuocHuy94/total-node-even-valued.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuocHuy94/total-node-even-valued/issues"
+  },
+  "homepage": "https://github.com/QuocHuy94/total-node-even-valued#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
